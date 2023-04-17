@@ -1,0 +1,8 @@
+C:\Users\mafeq\OneDrive\Escritorio\20231\POO\calculadora_metodos\calculadora_metodos\bin\Debug\calculadora_metodos.exe.config
+C:\Users\mafeq\OneDrive\Escritorio\20231\POO\calculadora_metodos\calculadora_metodos\bin\Debug\calculadora_metodos.exe
+C:\Users\mafeq\OneDrive\Escritorio\20231\POO\calculadora_metodos\calculadora_metodos\bin\Debug\calculadora_metodos.pdb
+C:\Users\mafeq\OneDrive\Escritorio\20231\POO\calculadora_metodos\calculadora_metodos\obj\Debug\calculadora_metodos.csproj.AssemblyReference.cache
+C:\Users\mafeq\OneDrive\Escritorio\20231\POO\calculadora_metodos\calculadora_metodos\obj\Debug\calculadora_metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\mafeq\OneDrive\Escritorio\20231\POO\calculadora_metodos\calculadora_metodos\obj\Debug\calculadora_metodos.csproj.CoreCompileInputs.cache
+C:\Users\mafeq\OneDrive\Escritorio\20231\POO\calculadora_metodos\calculadora_metodos\obj\Debug\calculadora_metodos.exe
+C:\Users\mafeq\OneDrive\Escritorio\20231\POO\calculadora_metodos\calculadora_metodos\obj\Debug\calculadora_metodos.pdb
